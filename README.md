@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgh75972&label=Profile%20views&color=0e75b6&style=flat" alt="tgh75972" /> </p><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgh75972&label=Profile%20views&color=0e75b6&style=flat" alt="tgh75972" /> </p>
 
-<h3>Things you need to know!</h3><br>
+<h3>Things you need to know!</h3>
 
 - 🔭 I’m currently working on **Cybersecurity and frontend frameworks**
 
