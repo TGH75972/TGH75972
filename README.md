@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgh75972&label=Profile%20views&color=0e75b6&style=flat" alt="tgh75972" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tgh75972&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TGH75972&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Cybersecurity and frontend frameworks**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **interesting coding projects.**
 
-- 💬 Ask me about **Python, Cybersecurity, AI and any topic of your interest.**
+- 💬 Ask me about **Python, Cybersecurity, AI, and any topic of your interest.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/harshit-yadav-b0020829a/**
 
