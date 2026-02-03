@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgh75972&label=Profile%20views&color=0e75b6&style=flat" alt="tgh75972" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgh75972&label=Profile%20views&color=0e75b6&style=flat" alt="tgh75972" /> </p><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TGH75972&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h3>Things you need to know!</h3><br>
 
 - 🔭 I’m currently working on **Cybersecurity and frontend frameworks**
 
