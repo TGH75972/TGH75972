@@ -3,17 +3,17 @@
 
 <h3>Things you need to know!</h3>
 
-- 🔭 I’m currently working on **Cybersecurity and frontend frameworks**
+-  I’m currently working on **Cybersecurity and frontend frameworks**
 
-- 🌱 I’m currently learning **Ruby on rails**
+-  I’m currently learning **Ruby on rails**
 
-- 👯 I’m looking to collaborate on **interesting coding projects.**
+-  I’m looking to collaborate on **interesting coding projects.**
 
-- 💬 Ask me about **Python, Cybersecurity, AI, and any topic of your interest.**
+-  Ask me about **Python, Cybersecurity, AI, and any topic of your interest.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/harshit-yadav-b0020829a/**
+-  How to reach me **https://www.linkedin.com/in/harshit-yadav-b0020829a/**
 
-- ⚡ Fun fact **I think every coder is a night owl**
+-  Fun fact **I think every coder is a night owl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
