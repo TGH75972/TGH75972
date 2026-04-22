@@ -21,7 +21,7 @@
 </p>
 
 
-
+<h3>Github Stats -</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-dusky.vercel.app?user=TGH75972&theme=modern-lilac2&border_radius=5)](https://git.io/streak-stats)
 
